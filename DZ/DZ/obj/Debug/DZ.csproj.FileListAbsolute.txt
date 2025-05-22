@@ -1,0 +1,7 @@
+D:\Putsa\DZ\DZ\bin\Debug\DZ.exe.config
+D:\Putsa\DZ\DZ\bin\Debug\DZ.exe
+D:\Putsa\DZ\DZ\bin\Debug\DZ.pdb
+D:\Putsa\DZ\DZ\obj\Debug\DZ.csproj.AssemblyReference.cache
+D:\Putsa\DZ\DZ\obj\Debug\DZ.csproj.CoreCompileInputs.cache
+D:\Putsa\DZ\DZ\obj\Debug\DZ.exe
+D:\Putsa\DZ\DZ\obj\Debug\DZ.pdb
